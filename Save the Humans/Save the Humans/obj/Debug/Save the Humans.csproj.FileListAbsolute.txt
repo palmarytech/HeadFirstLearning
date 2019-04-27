@@ -1,1 +1,15 @@
 C:\HeadFirst_C#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\HeadFirst_C#\HeadFirstLearning\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb

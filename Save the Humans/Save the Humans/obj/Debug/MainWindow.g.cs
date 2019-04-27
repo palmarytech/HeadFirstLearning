@@ -143,24 +143,12 @@ namespace Save_the_Humans {
             return;
             case 4:
             this.human = ((System.Windows.Controls.StackPanel)(target));
-            
-            #line 35 "..\..\MainWindow.xaml"
-            this.human.MouseDown += new System.Windows.Input.MouseButtonEventHandler(this.human_MouseDown);
-            
-            #line default
-            #line hidden
             return;
             case 5:
             this.gameOverText = ((System.Windows.Controls.TextBox)(target));
             return;
             case 6:
             this.target = ((System.Windows.Shapes.Rectangle)(target));
-            
-            #line 40 "..\..\MainWindow.xaml"
-            this.target.MouseEnter += new System.Windows.Input.MouseEventHandler(this.target_MouseEnter);
-            
-            #line default
-            #line hidden
             return;
             case 7:
             this.textBlock = ((System.Windows.Controls.TextBlock)(target));
