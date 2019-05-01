@@ -13,7 +13,7 @@
             </Grid>
         </ControlTemplate>
     </Window.Resources>
-    <Grid Background="Black">
+    <Grid x:Name="grid" Background="Black">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="140"/>
             <ColumnDefinition/>
@@ -25,7 +25,7 @@
         </Grid.RowDefinitions>
         <Button x:Name="startButton" Content="Start!" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Click="startButton_Click"/>
         <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="1" Height="20"/>
-        <Canvas x:Name="playArea" Grid.ColumnSpan="3">
+        <Canvas x:Name="playArea" Grid.ColumnSpan="3" MouseMove="playArea_MouseMove" MouseLeave="playArea_MouseLeave">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF4C185B" Offset="0"/>
